@@ -1,4 +1,5 @@
 import React from 'react';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 import KANJI from './assets/kanji.json';
 import { ControlPanel } from './components/ControlPanel';
@@ -11,7 +12,7 @@ function App(): JSX.Element {
 
       <DisplayCard></DisplayCard>
       <ControlPanel></ ControlPanel>
-      
+
     </div>
   );
 }

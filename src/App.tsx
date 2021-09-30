@@ -4,16 +4,19 @@ import './App.css';
 import KANJI from './assets/kanji.json';
 import { ControlPanel } from './components/ControlPanel';
 import { DisplayCard } from './components/DisplayCard';
+import { Container, Row } from 'react-bootstrap';
 
 function App(): JSX.Element {
   return (
-    <div className="App">
+    <Container className="App">
       <h1> Welcome to the Kanji Learning Flashcard game!</h1>
 
       <DisplayCard></DisplayCard>
-      <ControlPanel></ ControlPanel>
 
-    </div>
+      <Row>
+        <ControlPanel></ ControlPanel>
+      </Row>
+    </Container>
   );
 }
 

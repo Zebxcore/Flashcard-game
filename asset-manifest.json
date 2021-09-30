@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Flashcard-game/static/css/main.25231ee4.chunk.css",
-    "main.js": "/Flashcard-game/static/js/main.c35177b9.chunk.js",
-    "main.js.map": "/Flashcard-game/static/js/main.c35177b9.chunk.js.map",
-    "runtime-main.js": "/Flashcard-game/static/js/runtime-main.0b670abf.js",
-    "runtime-main.js.map": "/Flashcard-game/static/js/runtime-main.0b670abf.js.map",
-    "static/js/2.72a70044.chunk.js": "/Flashcard-game/static/js/2.72a70044.chunk.js",
-    "static/js/2.72a70044.chunk.js.map": "/Flashcard-game/static/js/2.72a70044.chunk.js.map",
-    "static/js/3.225a6208.chunk.js": "/Flashcard-game/static/js/3.225a6208.chunk.js",
-    "static/js/3.225a6208.chunk.js.map": "/Flashcard-game/static/js/3.225a6208.chunk.js.map",
-    "index.html": "/Flashcard-game/index.html",
-    "static/css/main.25231ee4.chunk.css.map": "/Flashcard-game/static/css/main.25231ee4.chunk.css.map",
-    "static/js/2.72a70044.chunk.js.LICENSE.txt": "/Flashcard-game/static/js/2.72a70044.chunk.js.LICENSE.txt"
+    "main.css": "/Flashcard-game.github.io/static/css/main.25231ee4.chunk.css",
+    "main.js": "/Flashcard-game.github.io/static/js/main.c35177b9.chunk.js",
+    "main.js.map": "/Flashcard-game.github.io/static/js/main.c35177b9.chunk.js.map",
+    "runtime-main.js": "/Flashcard-game.github.io/static/js/runtime-main.7d3209fe.js",
+    "runtime-main.js.map": "/Flashcard-game.github.io/static/js/runtime-main.7d3209fe.js.map",
+    "static/js/2.72a70044.chunk.js": "/Flashcard-game.github.io/static/js/2.72a70044.chunk.js",
+    "static/js/2.72a70044.chunk.js.map": "/Flashcard-game.github.io/static/js/2.72a70044.chunk.js.map",
+    "static/js/3.225a6208.chunk.js": "/Flashcard-game.github.io/static/js/3.225a6208.chunk.js",
+    "static/js/3.225a6208.chunk.js.map": "/Flashcard-game.github.io/static/js/3.225a6208.chunk.js.map",
+    "index.html": "/Flashcard-game.github.io/index.html",
+    "static/css/main.25231ee4.chunk.css.map": "/Flashcard-game.github.io/static/css/main.25231ee4.chunk.css.map",
+    "static/js/2.72a70044.chunk.js.LICENSE.txt": "/Flashcard-game.github.io/static/js/2.72a70044.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0b670abf.js",
+    "static/js/runtime-main.7d3209fe.js",
     "static/js/2.72a70044.chunk.js",
     "static/css/main.25231ee4.chunk.css",
     "static/js/main.c35177b9.chunk.js"

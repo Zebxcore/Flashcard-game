@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/Flashcard-game/static/css/main.25231ee4.chunk.css",
-    "main.js": "/Flashcard-game/static/js/main.c35177b9.chunk.js",
-    "main.js.map": "/Flashcard-game/static/js/main.c35177b9.chunk.js.map",
-    "runtime-main.js": "/Flashcard-game/static/js/runtime-main.0b670abf.js",
-    "runtime-main.js.map": "/Flashcard-game/static/js/runtime-main.0b670abf.js.map",
-    "static/js/2.72a70044.chunk.js": "/Flashcard-game/static/js/2.72a70044.chunk.js",
-    "static/js/2.72a70044.chunk.js.map": "/Flashcard-game/static/js/2.72a70044.chunk.js.map",
-    "static/js/3.225a6208.chunk.js": "/Flashcard-game/static/js/3.225a6208.chunk.js",
-    "static/js/3.225a6208.chunk.js.map": "/Flashcard-game/static/js/3.225a6208.chunk.js.map",
+    "main.css": "/Flashcard-game/static/css/main.37f274da.chunk.css",
+    "main.js": "/Flashcard-game/static/js/main.298e3b50.chunk.js",
+    "main.js.map": "/Flashcard-game/static/js/main.298e3b50.chunk.js.map",
+    "runtime-main.js": "/Flashcard-game/static/js/runtime-main.03b8684f.js",
+    "runtime-main.js.map": "/Flashcard-game/static/js/runtime-main.03b8684f.js.map",
+    "static/css/2.f2512455.chunk.css": "/Flashcard-game/static/css/2.f2512455.chunk.css",
+    "static/js/2.10bcfcdd.chunk.js": "/Flashcard-game/static/js/2.10bcfcdd.chunk.js",
+    "static/js/2.10bcfcdd.chunk.js.map": "/Flashcard-game/static/js/2.10bcfcdd.chunk.js.map",
+    "static/js/3.7e81113b.chunk.js": "/Flashcard-game/static/js/3.7e81113b.chunk.js",
+    "static/js/3.7e81113b.chunk.js.map": "/Flashcard-game/static/js/3.7e81113b.chunk.js.map",
     "index.html": "/Flashcard-game/index.html",
-    "static/css/main.25231ee4.chunk.css.map": "/Flashcard-game/static/css/main.25231ee4.chunk.css.map",
-    "static/js/2.72a70044.chunk.js.LICENSE.txt": "/Flashcard-game/static/js/2.72a70044.chunk.js.LICENSE.txt"
+    "static/css/2.f2512455.chunk.css.map": "/Flashcard-game/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.37f274da.chunk.css.map": "/Flashcard-game/static/css/main.37f274da.chunk.css.map",
+    "static/js/2.10bcfcdd.chunk.js.LICENSE.txt": "/Flashcard-game/static/js/2.10bcfcdd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0b670abf.js",
-    "static/js/2.72a70044.chunk.js",
-    "static/css/main.25231ee4.chunk.css",
-    "static/js/main.c35177b9.chunk.js"
+    "static/js/runtime-main.03b8684f.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.10bcfcdd.chunk.js",
+    "static/css/main.37f274da.chunk.css",
+    "static/js/main.298e3b50.chunk.js"
   ]
 }

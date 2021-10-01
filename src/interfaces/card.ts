@@ -1,7 +1,7 @@
 
 export interface Card {
-    ID: number
-    Kanji: string
-    Reading: string
-    Meaning: string
+    id: number
+    kanji: string
+    reading: string
+    meaning: string
 }

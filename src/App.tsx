@@ -12,7 +12,6 @@ function App(): JSX.Element {
 
   const [activeCard, setActiveCard] = useState<Card>(KANJI[0]);
 
-
   return (
 
     <Container className="App">

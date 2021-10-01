@@ -4,7 +4,9 @@ export function Intro(): JSX.Element {
     return (
         <div>
             <p>
-                Here goes game's description...
+                Here is an interactive and effective way of learning Japanese! <br />
+                . . . 
+
             </p>
         </div>
     );
